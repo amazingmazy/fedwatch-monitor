@@ -15,5 +15,5 @@ By setting the flag to True, you attest that you have:
 Paste the URL of the live site, e.g. "https://jdoe.github.io/finm32900-hw4-fedwatch/".
 """
 
-I_HAVE_PUBLISHED_MY_FEDWATCH_MONITOR_SITE = False
-URL_TO_MY_FEDWATCH_MONITOR_SITE = ""
+I_HAVE_PUBLISHED_MY_FEDWATCH_MONITOR_SITE = True
+URL_TO_MY_FEDWATCH_MONITOR_SITE = "https://amazingmazy.github.io/fedwatch-monitor/"
