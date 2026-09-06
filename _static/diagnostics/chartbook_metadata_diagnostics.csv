@@ -1,0 +1,4 @@
+Name,Metadata Complete,Object Type,Identifier,Pipeline,Missing Fields,Page Link
+HW 4 - FedWatch Monitor,False,pipeline,amazingmazy/fedwatch_monitor,amazingmazy/fedwatch_monitor,repo_url,../index.html
+30-Day Fed Funds Futures Daily Bars (Databento),False,dataframe,fed_funds_futures,amazingmazy/fedwatch_monitor,"sources, providers, provider_links",./dataframes/amazingmazy--fedwatch_monitor/fed_funds_futures.html
+FedWatch: Next FOMC Meeting Probabilities,False,chart,fedwatch_latest_forecast,amazingmazy/fedwatch_monitor,"observation_period, release_lag, release_timing",./charts/amazingmazy--fedwatch_monitor.fedwatch_latest_forecast.html
